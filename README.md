@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Sidjha1454@gmail.com**
 
-- 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/siddharthjha04/)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1na7t5b-A816hOopz0sA6Ku1YtEJw8Gtq/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
