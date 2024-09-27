@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Interview ML**
 
-- 🌱 I’m currently learning **Data Structures and Algorithm and Django**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Django**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sidjha.netlify.app/)
 
